@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @sorling-liang
 - 👀 I’m a Code Mentor @ Computhink Kids Singapore
 - 🌱 I’m currently learning to cook tasty meals.
-- 💞️ I love coding.
+- 💞️ I enjoy coding.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Singapore is a small city country.
 
 <!---
